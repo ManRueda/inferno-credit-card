@@ -1,2 +1,2 @@
-# inferno-credit-card
-Credit card input component for Inferno
+# react-credit-card
+Credit card input component for React and Preact
